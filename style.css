@@ -35,4 +35,11 @@ body {
     padding: 0;
 }
 
-
+@media only screen and (max-width: 600px){
+    div {
+        width: 100%;
+    }
+    .swinka {
+        justify-content: center;
+    }
+}
